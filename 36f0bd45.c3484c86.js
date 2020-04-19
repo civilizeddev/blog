@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[11],{111:function(n){n.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"inflearn","name":"inflearn","count":1,"permalink":"/blog/tags/inflearn"}')}}]);
